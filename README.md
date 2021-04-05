@@ -3,8 +3,10 @@
 🚀 A __frontend developer__, Henry student with more than 800 training hours, passionate about design and travelling.
 My skills include __JavaScript__, __Apollo GraphQL__, __TypeScript__, __React__, __Redux__, __CSS__, __HTML__, __Express__, __Sequelize__, __PostgreSQL__, __Adobe Photoshop__, __Adobe Illustrator__, __Adobe InDesign__, __Adobe After Effects__, and __Adobe Premiere Pro__
 
-📫 How to reach me: ...
-<!--
+### 📫 How to reach me:
+- [Linkedin](https://www.linkedin.com/in/martintoz/)
+- [Gmail](mailto:martintoz@gmail.com)
+<!-- 
 **martintoz/martintoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

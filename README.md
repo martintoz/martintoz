@@ -6,7 +6,7 @@ I speak English and Spanish natively.
 
 ### 📫 How to reach me:
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="25" title="LinkedIn" />](https://www.linkedin.com/in/martintoz/)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="50" title="Gmail" />](mailto:martintoz@gmail.com)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="25" title="Gmail" />](mailto:martintoz@gmail.com)
 <!-- 
 **martintoz/martintoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 # Hi, I'm Martin 👋
 
-🚀 A __frontend developer__, Henry student with more than 800 training hours, passionate about design and travelling.
-My skills include __JavaScript__, __Apollo GraphQL__, __TypeScript__, __React__, __Redux__, __CSS__, __HTML__, __Express__, __Sequelize__, __PostgreSQL__, __Adobe Photoshop__, __Adobe Illustrator__, __Adobe InDesign__, __Adobe After Effects__, and __Adobe Premiere Pro__
+🚀 A __frontend developer__, Henry student with more than 800 training hours, passionate about design and travelling.<br>
+My skills include __JavaScript__, __Apollo GraphQL__, __TypeScript__, __React__, __Redux__, __CSS__, __HTML__, __Express__, __Sequelize__, __PostgreSQL__, __Adobe Photoshop__, __Adobe Illustrator__, __Adobe InDesign__, __Adobe After Effects__, and __Adobe Premiere Pro__.<br>
 I speak English and Spanish natively.
 
 ### 📫 How to reach me:

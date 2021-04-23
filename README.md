@@ -9,8 +9,8 @@ I speak English and Spanish natively.
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="25" title="Gmail" />](mailto:martintoz@gmail.com)
 
 ### 💻 Projects:
-- Sneakers ecommerce: Store made as my final group project for [soyHenry.com](https://www.soyhenry.com/) using Apollo/GraphQL, TypeScript, React, Sequelize, and Express. [Check it out](https://shoes-g1.vercel.app/)
-- Pokédex: Single page app made as my individual project for [soyHenry.com](https://www.soyhenry.com/) using React, Redux, Node.js, Express, and Sequelize/Postgres. [Check it out](https://www.linkedin.com/posts/martintoz_english-below-una-muestra-del-pokedex-que-activity-6782327542054498304-oMcO)
+- __Sneakers ecommerce__: Store developed as my final group project for [soyHenry.com](https://www.soyhenry.com/) using Apollo/GraphQL, TypeScript, React, Sequelize, and Express. [Check it out](https://shoes-g1.vercel.app/)
+- __Pokédex__: Single page app developed as my individual project for [soyHenry.com](https://www.soyhenry.com/) using React, Redux, Node.js, Express, and Sequelize/Postgres. [Check it out](https://www.linkedin.com/posts/martintoz_english-below-una-muestra-del-pokedex-que-activity-6782327542054498304-oMcO)
 <!-- 
 **martintoz/martintoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

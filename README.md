@@ -6,6 +6,7 @@ I speak English and Spanish natively.
 
 ### 💻 Projects:
 - __Sneakers ecommerce__: Store developed as my final group project for [soyHenry.com](https://www.soyhenry.com/) using Apollo/GraphQL, TypeScript, React, Sequelize, and Express. [Check it out](https://shoes-g1.vercel.app/)
+- __Los Pollos Hermanos__: Responsive promotional landing page for Los Pollos Hermanos using React, TypeScript, and styled-components.
 - __Pokédex__: Single page app developed as my individual project for [soyHenry.com](https://www.soyhenry.com/) using React, Redux, Node.js, Express, and Sequelize/Postgres. [Check it out](https://www.linkedin.com/posts/martintoz_english-below-una-muestra-del-pokedex-que-activity-6782327542054498304-oMcO)
 
 ### 📫 How to reach me:

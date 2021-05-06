@@ -4,6 +4,9 @@
 My skills include __JavaScript__, __Apollo GraphQL__, __TypeScript__, __React__, __Redux__, __CSS__, __HTML__, __Node.js__, __Git__, __Express__, __Sequelize__, __PostgreSQL__, __Adobe Photoshop__, __Adobe Illustrator__, __Adobe InDesign__, __Adobe After Effects__, and __Adobe Premiere Pro__.<br>
 I speak English and Spanish natively.
 
+### 🌐 Portfolio:
+Want to see my work? [Check out my portfolio](https://tozer.ar)
+
 ### 💻 Projects:
 - __Sneakers ecommerce__: Store developed as my final group project for [soyHenry.com](https://www.soyhenry.com/) using Apollo/GraphQL, TypeScript, React, Sequelize, and Express. [Check it out](https://shoes-g1.vercel.app/)
 - __Los Pollos Hermanos__: Responsive promotional landing page for Los Pollos Hermanos using React, TypeScript, and styled-components. [Check it out](https://martintoz.github.io/LosPollosHermanos/)

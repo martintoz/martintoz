@@ -1,4 +1,4 @@
-# Hi, I'm Martin 👋
+# Hi, I'm Martín 👋
 
 🚀 A __frontend developer__, [soyHenry.com](https://www.soyhenry.com/) graduate with more than 800 training hours, passionate about design and travelling.<br>
 My skills include __JavaScript__, __Apollo GraphQL__, __TypeScript__, __React__, __Redux__, __CSS__, __HTML__, __Node.js__, __Git__, __Express__, __Sequelize__, __PostgreSQL__, __Adobe Photoshop__, __Adobe Illustrator__, __Adobe InDesign__, __Adobe After Effects__, and __Adobe Premiere Pro__.<br>
@@ -16,17 +16,3 @@ Want to see my work? [Check out my portfolio](https://tozer.ar)
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="25" title="LinkedIn" />](https://www.linkedin.com/in/martintoz/)
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="25" title="Gmail" />](mailto:martintoz@gmail.com)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Globe_icon_squared.svg" width="25" title="Portfolio" />](https://tozer.ar)
-<!-- 
-**martintoz/martintoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
